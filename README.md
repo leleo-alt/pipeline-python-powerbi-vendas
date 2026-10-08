@@ -1,4 +1,4 @@
-# 🚀 Pipeline de Automação de Dados: Python + Power BI
+# Pipeline de Automação de Dados: Python + Power BI
 
 Este projeto demonstra a criação de uma **pipeline de dados completa**, integrada do backend à visualização de inteligência de negócios.
 
