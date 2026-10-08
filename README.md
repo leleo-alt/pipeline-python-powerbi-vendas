@@ -22,3 +22,6 @@ O painel foi construído para responder a perguntas estratégicas de negócio:
 * **Métrica principal (KPI)**: Valor total de vendas acumulado.
 * **Análise por região**: Percentual de receita gerada entre Fortaleza e Caucaia.
 * **Performance de produtos**: Volume de cursos vendidos por categoria.
+
+## Visualização do Dashboard
+![Dashboard Power BI](dashboard.png)
